@@ -1,0 +1,37 @@
+{
+  "9811001234": [
+    {
+      "bill_id": "BILL001",
+      "mobile": "9811001234",
+      "name": "Rahul Kumar",
+      "plan": "Unlimited 5G - 299",
+      "amount": 299.0,
+      "due_date": "2026-01-08",
+      "status": "pending",
+      "billing_period": "Dec 2025"
+    },
+    {
+      "bill_id": "BILL002",
+      "mobile": "9811001234",
+      "name": "Rahul Kumar",
+      "plan": "Unlimited 5G - 299",
+      "amount": 299.0,
+      "due_date": "2025-12-10",
+      "status": "paid",
+      "billing_period": "Nov 2025",
+      "paid_date": "2025-12-08"
+    }
+  ],
+  "9876543210": [
+    {
+      "bill_id": "BILL003",
+      "mobile": "9876543210",
+      "name": "Priya Singh",
+      "plan": "Postpaid Plus - 599",
+      "amount": 599.0,
+      "due_date": "2026-01-13",
+      "status": "pending",
+      "billing_period": "Dec 2025"
+    }
+  ]
+}
